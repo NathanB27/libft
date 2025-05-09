@@ -26,7 +26,7 @@ La bibliothèque contient :
 Clonez ce repository et compilez la bibliothèque :
 
 ```bash
-git clone <URL_DU_REPOSITORY>
+git clone git@github.com:NathanB27/libft.git
 cd libft
 make
 ```
